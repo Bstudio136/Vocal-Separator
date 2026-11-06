@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/CustomTkinter-UI-00FFCC?style=for-the-badge" alt="CustomTkinter">
   <img src="https://img.shields.io/badge/Demucs-AI-FF007F?style=for-the-badge" alt="Demucs">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
+  <img src="https://img.shields.io/badge/License-Restricted-yellow?style=for-the-badge" alt="Restricted License">
 </p>
 
 A powerful, futuristic AI graphical interface to separate vocals and instruments from any audio track. Built with a sleek Cyberpunk/Quantum theme, it uses Meta's Demucs AI engine to extract high-quality stems directly to your computer.
@@ -63,9 +63,10 @@ You **must** have **FFmpeg** installed on your system for Demucs to process audi
 - 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
 - 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
 
+
 ## 📄 License
 
-This project is under the MIT License. You are free to use and modify it for your own needs.
+This project is licensed under the **MIT Non-Commercial & No-Derivatives License (Restricted MIT)**. You are free to use the Software as-is for free, but modifying, reselling, or sublicensing the code is strictly forbidden. See the [LICENSE](LICENSE) file for details.
 
 <a href="https://hiddenswap.com/pay/AgRPwfFe" target="_blank" rel="noopener"><img src="https://hiddenswap.com/pay/AgRPwfFe/button.svg" alt="Donate with any coin" width="247" height="44"></a>
 
@@ -79,7 +80,7 @@ This project is under the MIT License. You are free to use and modify it for you
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/CustomTkinter-UI-00FFCC?style=for-the-badge" alt="CustomTkinter">
   <img src="https://img.shields.io/badge/Demucs-AI-FF007F?style=for-the-badge" alt="Demucs">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
+  <img src="https://img.shields.io/badge/License-Restricted-yellow?style=for-the-badge" alt="Restricted License">
 </p>
 
 Un outil d'Intelligence Artificielle puissant et futuriste avec interface graphique pour séparer les voix et les instruments de n'importe quelle piste audio. Conçu avec un thème Cyberpunk/Quantique, il utilise le moteur IA Demucs de Meta pour extraire des pistes de haute qualité directement sur votre ordinateur.
@@ -127,8 +128,9 @@ Vous **devez** avoir **FFmpeg** installé sur votre système pour que Demucs pui
 - 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
 - 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
 
+
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier pour vos propres besoins.
+Ce projet est sous **Licence MIT Restreinte (MIT Non-Commercial & No-Derivatives License)**. Vous êtes libre de l'utiliser gratuitement tel quel, mais toute modification, sous-licence ou revente est strictement interdite. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 <a href="https://hiddenswap.com/pay/AgRPwfFe" target="_blank" rel="noopener"><img src="https://hiddenswap.com/pay/AgRPwfFe/button.svg" alt="Donate with any coin" width="247" height="44"></a>
